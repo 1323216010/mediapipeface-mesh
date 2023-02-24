@@ -32,3 +32,4 @@ function testSupport(supportedDevices) {
     }
 }
  */
+console.log(window)
